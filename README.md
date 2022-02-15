@@ -4,10 +4,10 @@
 
 - watch this video on how to setup rclone web gui on AWS - <a href="https://youtu.be/GYLscUPs2Sw">Click here</a>
 - watch this video on how to setup this workflow - <a href="">will be soon</a>
-- default password and username is ``` sudo ```
+- default password and username is ``` admin ```
 
 # Configuration
-- `CONFIG_FILE_URL` - Upload your ***rclone.conf*** file to <a href="https://t.me/DirectLinkGeneratorbot/">@DirectLinkGeneratorbot</a> (we just need a direct link to access it)
+- `CONF_BASE64` - Your pre-configured ***rclone.conf*** encoded by base64. You can use any tool (ex: https://da.gd/base64)
 - `USERNAME` - Any self specified username.
 - `PASSWORD` - Any self specified password.
 
